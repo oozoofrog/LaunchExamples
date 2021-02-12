@@ -4,4 +4,7 @@
    <FileRef
       location = "group:AppDelegateLaunch/AppDelegateLaunch.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:AppDelegateLaunch/../OpenURL/OpenURL.xcodeproj">
+   </FileRef>
 </Workspace>
